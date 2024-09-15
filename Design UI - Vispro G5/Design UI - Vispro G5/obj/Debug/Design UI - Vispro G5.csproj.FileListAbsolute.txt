@@ -1,0 +1,11 @@
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\bin\Debug\Design UI - Vispro G5.exe.config
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\bin\Debug\Design UI - Vispro G5.exe
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\bin\Debug\Design UI - Vispro G5.pdb
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design UI - Vispro G5.csproj.AssemblyReference.cache
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design_UI___Vispro_G5.Form1.resources
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design_UI___Vispro_G5.FormMain.resources
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design_UI___Vispro_G5.Properties.Resources.resources
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design UI - Vispro G5.csproj.GenerateResource.cache
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design UI - Vispro G5.csproj.CoreCompileInputs.cache
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design UI - Vispro G5.exe
+C:\Users\Sambi\source\repos\Design UI - Vispro G5\Design UI - Vispro G5\obj\Debug\Design UI - Vispro G5.pdb
